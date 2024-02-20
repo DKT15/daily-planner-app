@@ -26,7 +26,7 @@ The application has colours for the time blocks to help the user determine past,
 
 ## Usage
 
-Plan your day using the calendar app and then hit save once you are happy with what you have added. The information will be saved in local storage and won't be lost when ypu refresh.
+Plan your day using the calendar app and then hit save once you are happy with what you have added. The information will be saved in local storage and won't be lost when you refresh.
 
 ## Screenshot
 
