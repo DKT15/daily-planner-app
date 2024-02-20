@@ -34,7 +34,7 @@ Plan your day using the calendar app and then hit save once you are happy with w
 
 ## Deployment
 
-You can access the website with this [link](https://dkt15.github.io/Prework-Study-Guide/)
+You can access the website with this [link](https://dkt15.github.io/daily-planner-app/)
 
 ## Contributing
 
