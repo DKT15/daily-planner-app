@@ -1,4 +1,4 @@
-# Third-Party APIs: Work Day Scheduler
+# Daily Planner App
 
 ## Description
 
